@@ -1,3 +1,3 @@
-def using_concat(array,array2)
-  array.concat
+def using_concat(phase1,phase2)
+  phase.concat
 end
