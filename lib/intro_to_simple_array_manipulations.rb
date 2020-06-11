@@ -1,4 +1,4 @@
-def using_concat(phase1,phase2)
+def using_concat()
   phase2.concat
 end
 
